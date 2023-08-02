@@ -1,7 +1,7 @@
 /**
  * Class that prints the Collatz sequence starting from a given number.
  *
- * @author YOUR NAME HERE
+ * @author Michelle Tang
  */
 public class Collatz {
 
